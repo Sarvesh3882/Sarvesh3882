@@ -30,6 +30,9 @@
   <a href="https://www.codechef.com/users/Sarvesh3882" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
   </a>
+  <a href="https://codeforces.com/profile/Sarvesh3882" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+  </a>
 </div>
 
 <div align="center">
