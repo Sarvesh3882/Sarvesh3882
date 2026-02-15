@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&lines=%3E+Hello%2C+I'm+Sarvesh+%F0%9F%91%8B;%3E+Engineering+Student+%7C+CSE;%3E+DevOps+%26+Cloud+%7C+Competitive+Programming;%3E+Building+the+strongest+version+of+myself..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&lines=%3E+Hello%2C+I'm+Sarvesh+%F0%9F%91%8B;%3E+Engineering+Student+%7C+IT;%3E+DevOps+%26+Cloud+%7C+Competitive+Programming;%3E+Building+the+strongest+version+of+myself..." alt="Typing SVG" />
 </div>
 
 ###
