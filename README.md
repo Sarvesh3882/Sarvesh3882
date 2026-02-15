@@ -35,8 +35,10 @@
   </a>
 </div>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarvesh3882&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Sarvesh3882&theme=dracula&hide_border=false&border_radius=5&exclude_days=Sun" height="150" alt="streak graph" />
 </div>
 
 ###
